@@ -8,7 +8,8 @@
 
 <div>
   <a href="https://github.com/felipedacslopes">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipedacslopes&show=reviews&theme=tokyonight">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipedacslopes&show=reviews&theme=transparent">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipedacslopes&stats_format=bytes&theme=transparent">
   </a>
 </div>
 
@@ -27,5 +28,4 @@
 <div> 
   <a href = "mailto:contatorafelipe.d.c.s.lopes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/felipe-lopes-954981323" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
 </div>
