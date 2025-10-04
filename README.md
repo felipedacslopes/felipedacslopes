@@ -4,7 +4,14 @@
 - 🔭 Atualmente trabalho como Analista Fiscal em transição para Tech.
 - 🌱 Sou estudante de Engenheria de Sofware.
 - 👨‍🎓 Concluindo Analise e Desenvolvimento de Sistemas.
-  
+
+
+<div>
+  <a href="https://github.com/felipedacslopes">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipedacslopes&show=reviews&theme=tokyonight">
+  </a>
+</div>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Felipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
