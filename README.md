@@ -1,17 +1,7 @@
 ## Olá, me chamo Felipe.
 
-
-- 🔭 Atualmente trabalho como Analista Fiscal em transição para Tech.
+- 👨‍🎓 Analise e Desenvolvimento de Sistemas.
 - 🌱 Sou estudante de Engenheria de Sofware.
-- 👨‍🎓 Concluindo Analise e Desenvolvimento de Sistemas.
-
-
-<div>
-  <a href="https://github.com/felipedacslopes">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipedacslopes&show=reviews&theme=transparent">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipedacslopes&stats_format=bytes&theme=transparent">
-  </a>
-</div>
 
 
 <div style="display: inline_block"><br>
